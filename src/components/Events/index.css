@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main-cont {
+  display: flex;
+  width: 100vw;
+  max-width: 1000px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: orangered;
+}
+.main-events-cont {
+  width: 60%;
+  background-color: #475569;
+  padding: 5px;
+}
+.head {
+  color: #f8fafc;
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.events-cont {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
